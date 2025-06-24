@@ -22,12 +22,18 @@ const Navigation = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
           {/* Logo */}
-          <div className="flex items-center">
-            <Link to="/" className="flex items-center space-x-2 text-white hover:text-orange-100 transition-colors">
-              <GraduationCap className="h-8 w-8" />
-              <span className="font-bold text-xl">Blog BTS SIO1</span>
-            </Link>
-          </div>
+          <div className="flex items-center space-x-3">
+          <img 
+            src="public/Fusion.png" 
+            alt="Logo 1" 
+            className="h-10 w-10 object-contain" 
+          />
+          
+          <Link to="/" className="flex items-center space-x-2 text-white">
+            <GraduationCap className="h-8 w-8" />
+            <span className="font-bold text-xl">Blog BTS SIO1</span>
+          </Link>
+        </div>
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
