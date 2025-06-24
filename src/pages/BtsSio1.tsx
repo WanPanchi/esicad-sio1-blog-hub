@@ -9,49 +9,112 @@ const BtsSio1 = () => {
   const students = [
     {
       id: 1,
-      nom: "KOUIDER",
-      prenom: "Sarra",
+      nom: "SOULIER",
+      prenom: "Rémi",
       photo: "/placeholder.svg",
       portfolio: "https://sarra-kouider.portfolio.dev",
       specialite: "SLAM"
     },
     {
       id: 2,
-      nom: "HACHACHE",
-      prenom: "Adel",
+      nom: "PLUCHET",
+      prenom: "Menzo",
       photo: "/placeholder.svg",
       portfolio: "https://adel-hachache.portfolio.dev",
-      specialite: "SISR"
-    },
-    // Ajouter d'autres étudiants ici
-    {
-      id: 3,
-      nom: "MARTIN",
-      prenom: "Pierre",
-      photo: "/placeholder.svg",
-      portfolio: "https://pierre-martin.portfolio.dev",
       specialite: "SLAM"
     },
     {
+      id: 1,
+      nom: "ATLAN",
+      prenom: "Ilan",
+      photo: "/placeholder.svg",
+      portfolio: "https://sarra-kouider.portfolio.dev",
+      specialite: "SISR"
+    },
+    {
+      id: 1,
+      nom: "ALBOUY",
+      prenom: "Kevin",
+      photo: "/placeholder.svg",
+      portfolio: "https://sarra-kouider.portfolio.dev",
+      specialite: "SISR"
+    },
+    {
+      id: 1,
+      nom: "FRUCHON",
+      prenom: "Romain",
+      photo: "/placeholder.svg",
+      portfolio: "https://sarra-kouider.portfolio.dev",
+      specialite: "SISR"
+    },
+    {
+      id: 1,
+      nom: "LACHEVRE",
+      prenom: "Corran",
+      photo: "/placeholder.svg",
+      portfolio: "https://sarra-kouider.portfolio.dev",
+      specialite: "SISR"
+    },
+    {
+      id: 1,
+      nom: "HUSTACHE",
+      prenom: "Jordan",
+      photo: "/placeholder.svg",
+      portfolio: "https://sarra-kouider.portfolio.dev",
+      specialite: "SISR"
+    },
+    {
+      id: 1,
+      nom: "MOUTAOUAKIL",
+      prenom: "Zyad",
+      photo: "/placeholder.svg",
+      portfolio: "https://sarra-kouider.portfolio.dev",
+      specialite: "SISR"
+    },
+    {
+      id: 1,
+      nom: "DEVAUCHELLE",
+      prenom: "Elina",
+      photo: "/placeholder.svg",
+      portfolio: "https://sarra-kouider.portfolio.dev",
+      specialite: "SISR"
+    },
+    {
+      id: 1,
+      nom: "GABRIELE",
+      prenom: "Baptiste",
+      photo: "/placeholder.svg",
+      portfolio: "https://sarra-kouider.portfolio.dev",
+      specialite: "SISR"
+    },
+    {
+      id: 3,
+      nom: "ADAM",
+      prenom: "Dawit",
+      photo: "/placeholder.svg",
+      portfolio: "https://pierre-martin.portfolio.dev",
+      specialite: "SISR"
+    },
+    {
       id: 4,
-      nom: "DURAND",
-      prenom: "Sophie",
+      nom: "BOUHASSOUN",
+      prenom: "Ilyass",
       photo: "/placeholder.svg",
       portfolio: "https://sophie-durand.portfolio.dev",
       specialite: "SISR"
     },
     {
       id: 5,
-      nom: "BERNARD",
-      prenom: "Lucas",
+      nom: "IMBERT",
+      prenom: "Alexandre",
       photo: "/placeholder.svg",
       portfolio: "https://lucas-bernard.portfolio.dev",
-      specialite: "SLAM"
+      specialite: "SISR"
     },
     {
       id: 6,
-      nom: "MOREAU",
-      prenom: "Emma",
+      nom: "GRECH",
+      prenom: "Matteo",
       photo: "/placeholder.svg",
       portfolio: "https://emma-moreau.portfolio.dev",
       specialite: "SISR"
