@@ -163,6 +163,12 @@ const BtsSio1 = () => {
                     Notre classe se distingue par son esprit d'équipe, sa créativité et sa motivation 
                     à réussir dans le secteur du numérique.
                   </p>
+                  <div className="pt-6">
+                    <img
+                      src="public/Fusion.png"
+                      alt="Logo de la classe BTS SIO1"
+                      className="h-20 w-auto mx-auto"
+                    />
                 </div>
               </div>
 
