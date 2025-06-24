@@ -91,7 +91,7 @@ const BtsSio1 = () => {
       id: 3,
       nom: "ADAM",
       prenom: "Dawit",
-      photo: "/ADAM Dawit.jpg",
+      photo: "public/ADAM Dawit.jpg",
       portfolio: "https://pierre-martin.portfolio.dev",
       specialite: "SISR"
     },
