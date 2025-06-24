@@ -148,12 +148,13 @@ const Referentiels = () => {
                       <h4 className="font-semibold text-blue-800 mb-2">Identité</h4>
                       <p className="text-blue-700 text-sm">
                         Noms et prénoms des étudiants de la classe SIO1
+                        L’adresse mail et le numéro de téléphone peuvent être présente dans les portfolio personnels des étudiants
                       </p>
                     </div>
                     <div className="bg-green-50 p-4 rounded-lg">
                       <h4 className="font-semibold text-green-800 mb-2">Liens</h4>
                       <p className="text-green-700 text-sm">
-                        URLs vers les portfolios personnels des étudiants
+                        URL vers les portfolios étudiant contenant les liens vers leurs différents réseaux.
                       </p>
                     </div>
                   </div>
