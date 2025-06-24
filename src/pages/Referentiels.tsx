@@ -183,13 +183,11 @@ const Referentiels = () => {
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-2">Finalité du Traitement</h4>
                     <p className="text-gray-600 text-sm">
-                      Les données sont utilisées exclusivement dans un cadre pédagogique pour :
-                    </p>
-                    <ul className="list-disc list-inside text-gray-600 text-sm mt-2 space-y-1">
-                      <li>Présentation de la classe BTS SIO1</li>
-                      <li>Promotion des travaux étudiants</li>
-                      <li>Création d'un lien avec le monde professionnel</li>
-                    </ul>
+                       Le présent blog a pour unique finalité la valorisation pédagogique des travaux et portfolios des élèves de la classe de BTS SIO 1 chez Esicad.
+                       Les données personnelles collectées et publiées (nom, prénom, photos, travaux, coordonnées facultatives) sont utilisées exclusivement dans ce cadre éducatif.
+                       Ce traitement respecte le Règlement Général sur la Protection des Données (RGPD) et garantit le recueil du consentement explicite des personnes concernées.
+                       Les données ne seront ni vendues, ni communiquées à des tiers à des fins commerciales.
+                    </p>                    
                   </div>
                 </CardContent>
               </Card>
