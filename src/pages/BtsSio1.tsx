@@ -165,7 +165,7 @@ const BtsSio1 = () => {
                   </p>
                   <div className="pt-6">
                     <img
-                      src="public/Fusion.png"
+                      src="public/Fusion.webp"
                       alt="Logo de la classe BTS SIO1"
                       className="h-20 w-auto mx-auto"
                     />
