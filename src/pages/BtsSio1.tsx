@@ -11,7 +11,7 @@ const BtsSio1 = () => {
       id: 1,
       nom: "SOULIER",
       prenom: "Rémi",
-      photo: "public/Remi.png",
+      photo: "public/Remi.webp",
       portfolio: "https://sarra-kouider.portfolio.dev",
       specialite: "SLAM"
     },
@@ -19,7 +19,7 @@ const BtsSio1 = () => {
       id: 2,
       nom: "PLUCHET",
       prenom: "Menzo",
-      photo: "public/Menzo.png",
+      photo: "public/Menzo.webp",
       portfolio: "https://adel-hachache.portfolio.dev",
       specialite: "SLAM"
     },
@@ -27,7 +27,7 @@ const BtsSio1 = () => {
       id: 1,
       nom: "ATLAN",
       prenom: "Ilan",
-      photo: "public/Ilan.png",
+      photo: "public/Ilan.webp",
       portfolio: "https://sarra-kouider.portfolio.dev",
       specialite: "SISR"
     },
@@ -35,7 +35,7 @@ const BtsSio1 = () => {
       id: 1,
       nom: "ALBOUY",
       prenom: "Kevin",
-      photo: "public/Kevin.png",
+      photo: "public/Kevin.webp",
       portfolio: "https://sarra-kouider.portfolio.dev",
       specialite: "SISR"
     },
@@ -43,7 +43,7 @@ const BtsSio1 = () => {
       id: 1,
       nom: "FRUCHON",
       prenom: "Romain",
-      photo: "public/Romain.png",
+      photo: "public/Romain.webp",
       portfolio: "https://sarra-kouider.portfolio.dev",
       specialite: "SISR"
     },
@@ -51,7 +51,7 @@ const BtsSio1 = () => {
       id: 1,
       nom: "LACHEVRE",
       prenom: "Corran",
-      photo: "public/Corran.png",
+      photo: "public/Corran.webp",
       portfolio: "https://sarra-kouider.portfolio.dev",
       specialite: "SISR"
     },
@@ -59,7 +59,7 @@ const BtsSio1 = () => {
       id: 1,
       nom: "HUSTACHE",
       prenom: "Jordan",
-      photo: "public/Jordan.png",
+      photo: "public/Jordan.webp",
       portfolio: "https://sarra-kouider.portfolio.dev",
       specialite: "SISR"
     },
@@ -67,7 +67,7 @@ const BtsSio1 = () => {
       id: 1,
       nom: "MOUTAOUAKIL",
       prenom: "Zyad",
-      photo: "/placeholder.svg",
+      photo: "/placeholder.webp",
       portfolio: "https://sarra-kouider.portfolio.dev",
       specialite: "SISR"
     },
@@ -75,7 +75,7 @@ const BtsSio1 = () => {
       id: 1,
       nom: "DEVAUCHELLE",
       prenom: "Elina",
-      photo: "public/Elina.png",
+      photo: "public/Elina.webp",
       portfolio: "https://sarra-kouider.portfolio.dev",
       specialite: "SISR"
     },
@@ -83,7 +83,7 @@ const BtsSio1 = () => {
       id: 1,
       nom: "GABRIELE",
       prenom: "Baptiste",
-      photo: "public/Baptiste.png",
+      photo: "public/Baptiste.webp",
       portfolio: "https://sarra-kouider.portfolio.dev",
       specialite: "SISR"
     },
@@ -91,7 +91,7 @@ const BtsSio1 = () => {
       id: 3,
       nom: "ADAM",
       prenom: "Dawit",
-      photo: "public/ADAM Dawit.png",
+      photo: "public/ADAM Dawit.webp",
       portfolio: "https://pierre-martin.portfolio.dev",
       specialite: "SISR"
     },
@@ -99,7 +99,7 @@ const BtsSio1 = () => {
       id: 4,
       nom: "BOUHASSOUN",
       prenom: "Ilyass",
-      photo: "public/BOUHASSOUN Ilyass.png",
+      photo: "public/BOUHASSOUN Ilyass.webp",
       portfolio: "https://sophie-durand.portfolio.dev",
       specialite: "SISR"
     },
@@ -107,7 +107,7 @@ const BtsSio1 = () => {
       id: 5,
       nom: "IMBERT",
       prenom: "Alexandre",
-      photo: "public/Alex.png",
+      photo: "public/Alex.webp",
       portfolio: "https://lucas-bernard.portfolio.dev",
       specialite: "SISR"
     },
@@ -115,7 +115,7 @@ const BtsSio1 = () => {
       id: 6,
       nom: "GRECH",
       prenom: "Matteo",
-      photo: "public/Matteo.png",
+      photo: "public/Matteo.webp",
       portfolio: "https://emma-moreau.portfolio.dev",
       specialite: "SISR"
     }
