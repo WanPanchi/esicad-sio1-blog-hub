@@ -90,7 +90,7 @@ const BtsSio1 = () => {
       id: 11,
       nom: "ADAM",
       prenom: "Dawit",
-      photo: "/ADAM Dawit.webp",
+      photo: "/Dawit.webp",
       portfolio: "https://pierre-martin.portfolio.dev",
       specialite: "SISR"
     },
@@ -98,7 +98,7 @@ const BtsSio1 = () => {
       id: 12,
       nom: "BOUHASSOUN",
       prenom: "Ilyass",
-      photo: "/BOUHASSOUN Ilyass.webp",
+      photo: "/Ilyass.webp",
       portfolio: "https://sophie-durand.portfolio.dev",
       specialite: "SISR"
     },
