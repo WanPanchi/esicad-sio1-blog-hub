@@ -45,7 +45,7 @@ const Hero = () => {
                   Découvrir la classe
                 </Link>
               </Button>
-              <Button asChild variant="outline" size="lg" className="border-white text-white hover:bg-white/10 text-lg px-8">
+              <Button asChild variant="outline" size="lg" className="border-white text-blue-600 hover:bg-white/10 text-lg px-8">
                 <Link to="/ecole">
                   <BookOpen className="mr-2 h-5 w-5" />
                   En savoir plus
