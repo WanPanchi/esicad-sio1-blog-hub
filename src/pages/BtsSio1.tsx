@@ -11,7 +11,7 @@ const BtsSio1 = () => {
       nom: "SOULIER",
       prenom: "Rémi",
       photo: "/Remi.webp",
-      portfolio: "https://sarra-kouider.portfolio.dev",
+      portfolio: "https://remisoulier.fr/",
       specialite: "SLAM"
     },
     {
@@ -43,7 +43,7 @@ const BtsSio1 = () => {
       nom: "FRUCHON",
       prenom: "Romain",
       photo: "/Romain.webp",
-      portfolio: "https://sarra-kouider.portfolio.dev",
+      portfolio: "https://portfolio-romain-fruchon.web.app/",
       specialite: "SISR"
     },
     {
@@ -51,7 +51,7 @@ const BtsSio1 = () => {
       nom: "LACHEVRE",
       prenom: "Corran",
       photo: "/Corran.webp",
-      portfolio: "https://sarra-kouider.portfolio.dev",
+      portfolio: "https://lecorran.github.io/portfolio/portfolio.html",
       specialite: "SISR"
     },
     {
