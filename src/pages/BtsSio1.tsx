@@ -19,7 +19,7 @@ const BtsSio1 = () => {
       nom: "PLUCHET",
       prenom: "Menzo",
       photo: "/Menzo.webp",
-      portfolio: "https://adel-hachache.portfolio.dev",
+      portfolio: "https://fr.pinterest.com/fabrice6194/gorille-dos-argent%C3%A9/",
       specialite: "SLAM"
     },
     {
@@ -27,7 +27,7 @@ const BtsSio1 = () => {
       nom: "ATLAN",
       prenom: "Ilan",
       photo: "/Ilan.webp",
-      portfolio: "https://sarra-kouider.portfolio.dev",
+      portfolio: "https://fr.pinterest.com/fabrice6194/gorille-dos-argent%C3%A9/",
       specialite: "SISR"
     },
     {
@@ -35,7 +35,7 @@ const BtsSio1 = () => {
       nom: "ALBOUY",
       prenom: "Kevin",
       photo: "/Kevin.webp",
-      portfolio: "https://sarra-kouider.portfolio.dev",
+      portfolio: "https://fr.pinterest.com/fabrice6194/gorille-dos-argent%C3%A9/",
       specialite: "SISR"
     },
     {
@@ -59,7 +59,7 @@ const BtsSio1 = () => {
       nom: "HUSTACHE",
       prenom: "Jordan",
       photo: "/Jordan.webp",
-      portfolio: "https://sarra-kouider.portfolio.dev",
+      portfolio: "https://fr.pinterest.com/fabrice6194/gorille-dos-argent%C3%A9/",
       specialite: "SISR"
     },
     {
@@ -67,7 +67,7 @@ const BtsSio1 = () => {
       nom: "MOUTAOUAKIL",
       prenom: "Zyad",
       photo: "/placeholder.webp",
-      portfolio: "https://sarra-kouider.portfolio.dev",
+      portfolio: "https://fr.pinterest.com/fabrice6194/gorille-dos-argent%C3%A9/",
       specialite: "SISR"
     },
     {
@@ -75,7 +75,7 @@ const BtsSio1 = () => {
       nom: "DEVAUCHELLE",
       prenom: "Elina",
       photo: "/Elina.webp",
-      portfolio: "https://sarra-kouider.portfolio.dev",
+      portfolio: "https://fr.pinterest.com/fabrice6194/gorille-dos-argent%C3%A9/",
       specialite: "SISR"
     },
     {
@@ -83,7 +83,7 @@ const BtsSio1 = () => {
       nom: "GABRIELE",
       prenom: "Baptiste",
       photo: "/Baptiste.webp",
-      portfolio: "https://sarra-kouider.portfolio.dev",
+      portfolio: "https://fr.pinterest.com/fabrice6194/gorille-dos-argent%C3%A9/",
       specialite: "SISR"
     },
     {
@@ -91,7 +91,7 @@ const BtsSio1 = () => {
       nom: "ADAM",
       prenom: "Dawit",
       photo: "/Dawit.webp",
-      portfolio: "https://pierre-martin.portfolio.dev",
+      portfolio: "https://fr.pinterest.com/fabrice6194/gorille-dos-argent%C3%A9/",
       specialite: "SISR"
     },
     {
@@ -99,7 +99,7 @@ const BtsSio1 = () => {
       nom: "BOUHASSOUN",
       prenom: "Ilyass",
       photo: "/Ilyass.webp",
-      portfolio: "https://sophie-durand.portfolio.dev",
+      portfolio: "https://fr.pinterest.com/fabrice6194/gorille-dos-argent%C3%A9/",
       specialite: "SISR"
     },
     {
@@ -107,7 +107,7 @@ const BtsSio1 = () => {
       nom: "IMBERT",
       prenom: "Alexandre",
       photo: "/Alex.webp",
-      portfolio: "https://lucas-bernard.portfolio.dev",
+      portfolio: "https://fr.pinterest.com/fabrice6194/gorille-dos-argent%C3%A9/",
       specialite: "SISR"
     },
     {
@@ -115,7 +115,7 @@ const BtsSio1 = () => {
       nom: "GRECH",
       prenom: "Matteo",
       photo: "/Matteo.webp",
-      portfolio: "https://emma-moreau.portfolio.dev",
+      portfolio: "https://fr.pinterest.com/fabrice6194/gorille-dos-argent%C3%A9/",
       specialite: "SISR"
     }
   ];
