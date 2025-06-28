@@ -1,4 +1,3 @@
-
 import Layout from '@/components/Layout';
 import { ExternalLink, Users, Code, Database } from 'lucide-react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
@@ -11,7 +10,7 @@ const BtsSio1 = () => {
       id: 1,
       nom: "SOULIER",
       prenom: "Rémi",
-      photo: "public/Remi.webp",
+      photo: "/Remi.webp",
       portfolio: "https://sarra-kouider.portfolio.dev",
       specialite: "SLAM"
     },
@@ -19,52 +18,52 @@ const BtsSio1 = () => {
       id: 2,
       nom: "PLUCHET",
       prenom: "Menzo",
-      photo: "public/Menzo.webp",
+      photo: "/Menzo.webp",
       portfolio: "https://adel-hachache.portfolio.dev",
       specialite: "SLAM"
     },
     {
-      id: 1,
+      id: 3,
       nom: "ATLAN",
       prenom: "Ilan",
-      photo: "public/Ilan.webp",
+      photo: "/Ilan.webp",
       portfolio: "https://sarra-kouider.portfolio.dev",
       specialite: "SISR"
     },
     {
-      id: 1,
+      id: 4,
       nom: "ALBOUY",
       prenom: "Kevin",
-      photo: "public/Kevin.webp",
+      photo: "/Kevin.webp",
       portfolio: "https://sarra-kouider.portfolio.dev",
       specialite: "SISR"
     },
     {
-      id: 1,
+      id: 5,
       nom: "FRUCHON",
       prenom: "Romain",
-      photo: "public/Romain.webp",
+      photo: "/Romain.webp",
       portfolio: "https://sarra-kouider.portfolio.dev",
       specialite: "SISR"
     },
     {
-      id: 1,
+      id: 6,
       nom: "LACHEVRE",
       prenom: "Corran",
-      photo: "public/Corran.webp",
+      photo: "/Corran.webp",
       portfolio: "https://sarra-kouider.portfolio.dev",
       specialite: "SISR"
     },
     {
-      id: 1,
+      id: 7,
       nom: "HUSTACHE",
       prenom: "Jordan",
-      photo: "public/Jordan.webp",
+      photo: "/Jordan.webp",
       portfolio: "https://sarra-kouider.portfolio.dev",
       specialite: "SISR"
     },
     {
-      id: 1,
+      id: 8,
       nom: "MOUTAOUAKIL",
       prenom: "Zyad",
       photo: "/placeholder.webp",
@@ -72,50 +71,50 @@ const BtsSio1 = () => {
       specialite: "SISR"
     },
     {
-      id: 1,
+      id: 9,
       nom: "DEVAUCHELLE",
       prenom: "Elina",
-      photo: "public/Elina.webp",
+      photo: "/Elina.webp",
       portfolio: "https://sarra-kouider.portfolio.dev",
       specialite: "SISR"
     },
     {
-      id: 1,
+      id: 10,
       nom: "GABRIELE",
       prenom: "Baptiste",
-      photo: "public/Baptiste.webp",
+      photo: "/Baptiste.webp",
       portfolio: "https://sarra-kouider.portfolio.dev",
       specialite: "SISR"
     },
     {
-      id: 3,
+      id: 11,
       nom: "ADAM",
       prenom: "Dawit",
-      photo: "public/ADAM Dawit.webp",
+      photo: "/ADAM Dawit.webp",
       portfolio: "https://pierre-martin.portfolio.dev",
       specialite: "SISR"
     },
     {
-      id: 4,
+      id: 12,
       nom: "BOUHASSOUN",
       prenom: "Ilyass",
-      photo: "public/BOUHASSOUN Ilyass.webp",
+      photo: "/BOUHASSOUN Ilyass.webp",
       portfolio: "https://sophie-durand.portfolio.dev",
       specialite: "SISR"
     },
     {
-      id: 5,
+      id: 13,
       nom: "IMBERT",
       prenom: "Alexandre",
-      photo: "public/Alex.webp",
+      photo: "/Alex.webp",
       portfolio: "https://lucas-bernard.portfolio.dev",
       specialite: "SISR"
     },
     {
-      id: 6,
+      id: 14,
       nom: "GRECH",
       prenom: "Matteo",
-      photo: "public/Matteo.webp",
+      photo: "/Matteo.webp",
       portfolio: "https://emma-moreau.portfolio.dev",
       specialite: "SISR"
     }
@@ -165,7 +164,7 @@ const BtsSio1 = () => {
                   </p>
                   <div className="pt-6">
                     <img
-                      src="public/Fusion.webp"
+                      src="/Fusion.webp"
                       alt="Logo de la classe BTS SIO1"
                       className="h-20 w-auto mx-auto"
                     />
