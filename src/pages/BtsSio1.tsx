@@ -168,6 +168,7 @@ const BtsSio1 = () => {
                       alt="Logo de la classe BTS SIO1"
                       className="h-20 w-auto mx-auto"
                     />
+                  </div>
                 </div>
               </div>
 
