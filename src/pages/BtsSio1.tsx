@@ -59,7 +59,7 @@ const BtsSio1 = () => {
       nom: "HUSTACHE",
       prenom: "Jordan",
       photo: "/Jordan.webp",
-      portfolio: "https://fr.pinterest.com/fabrice6194/gorille-dos-argent%C3%A9/",
+      portfolio: "https://portfolio-hustache-jordan.com/",
       specialite: "SISR"
     },
     {
